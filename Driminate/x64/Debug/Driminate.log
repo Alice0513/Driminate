@@ -1,0 +1,6 @@
+﻿  PlayerMgmt.cpp
+D:\Develop\Driminate\Driminate02\Driminate\CameraCntl.h(15,30): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Develop\Driminate\Driminate02\Driminate\SceneManager.h(24,2): warning C4091: 'static ': 変数が何も宣言されていないときは、'Scene' の左辺を無視します。
+D:\Develop\Driminate\Driminate02\Driminate\PlayerMgmt.cpp(96,28): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\Develop\Driminate\Driminate02\Driminate\PlayerMgmt.cpp(105,28): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Driminate.vcxproj -> D:\Develop\Driminate\Driminate02\Driminate\x64\Debug\Driminate.exe
